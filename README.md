@@ -1,3 +1,3 @@
 # Music-App
 
-[DEPLOY](https://heroku.com)
+[DEPLOY](https://heroku.com/deploy)
